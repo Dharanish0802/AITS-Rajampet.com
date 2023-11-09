@@ -1,1 +1,1 @@
-# AITS-Rajampet.com
+# College-Website
